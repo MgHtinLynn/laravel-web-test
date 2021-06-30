@@ -82,7 +82,10 @@ For API Earthquakes API Link
 ```console
 API_URL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson"
 ```
+The First Task -
+- https://web-test.test/
 
+The Second Task
 For API Testing, There is a file . You can import in your postman.
 - Products.postman_collection.json
 - Get Products 
